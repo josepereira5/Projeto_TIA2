@@ -1,0 +1,10 @@
+arco(braga, porto).
+arco(braga, viseu).
+arco(braga, guimaraes).
+arco(porto, lisboa).
+arco(porto, viseu).
+arco(guimaraes, porto).
+arco(lisboa, faro).
+arco(viseu, coimbra).
+arco(coimbra, braga).
+arco(coimbra, lisboa).
